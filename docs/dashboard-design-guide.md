@@ -1,7 +1,7 @@
 
 ---
 
-# 📘 `dashboard-design-guide.md`
+#  `dashboard-design-guide.md`
 
 ```markdown
 # Dashboard Design Guide – GlobalNet Monitor (GNM)
