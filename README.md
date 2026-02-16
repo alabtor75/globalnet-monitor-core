@@ -231,13 +231,14 @@ The dashboard/UI layer is implementation-specific.
 
 ## Documentation
 
-Detailed documentation is available in the [`docs/`](docs/) directory:
+Detailed documentation is available in the [`docs/`](./docs) directory:
 
-- **[Installation Guide](docs/INSTALL.md)** – Setup and deployment  
-- **[Configuration Guide](docs/CONFIG.md)** – Configuration files and options  
-- **[API Documentation](docs/API.md)** – REST API endpoints  
-- **[Architecture](docs/ARCHITECTURE.md)** – System design and components  
-- **[Examples](docs/EXAMPLES.md)** – Configuration examples
+- **[Installation Guide](./docs/installation-guide.md)**
+- **[Configuration Reference](./docs/configuration-reference.md)**
+- **[API Architecture](./docs/api-architecture.md)**
+- **[Collector Architecture](./docs/collector-architecture.md)**
+- **[Database Schema](./docs/database-schema.md)**
+- **[Dashboard Design Guide](./docs/dashboard-design-guide.md)**
 
 
 ---
