@@ -231,13 +231,14 @@ The dashboard/UI layer is implementation-specific.
 
 ## Documentation
 
-Detailed documentation is available in the [`/docs`](/alabtor75/globalnet-monitor-core/tree/main/docs) directory:
+Detailed documentation is available in the [`docs/`](docs/) directory:
 
-- **[Installation Guide](docs/INSTALL.md)** - Setup and deployment
-- **[Configuration Guide](docs/CONFIG.md)** - Configuration files and options
-- **[API Documentation](docs/API.md)** - REST API endpoints
-- **[Architecture](docs/ARCHITECTURE.md)** - System design and components
-- **[Examples](docs/EXAMPLES.md)** - Configuration examples
+- **[Installation Guide](docs/INSTALL.md)** – Setup and deployment  
+- **[Configuration Guide](docs/CONFIG.md)** – Configuration files and options  
+- **[API Documentation](docs/API.md)** – REST API endpoints  
+- **[Architecture](docs/ARCHITECTURE.md)** – System design and components  
+- **[Examples](docs/EXAMPLES.md)** – Configuration examples
+
 
 ---
 
